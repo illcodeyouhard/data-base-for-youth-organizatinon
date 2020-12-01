@@ -9,4 +9,5 @@
     4. Status – says the latest update on the specific organization.<br/>
     5. nameContacs– includes information about participants’ contacs.<br/>
     6. FB groups– created to show where some of the Erasmus+ organizations where found.<br/>
-    7. OrgContacs-  includes information about Erasmus+ organizations’ contacs<br/>
+    7. OrgContacs-  includes information about Erasmus+ organizations’ contacs<br/><br/>
+    Worth to note, that every personal contact information is modified
